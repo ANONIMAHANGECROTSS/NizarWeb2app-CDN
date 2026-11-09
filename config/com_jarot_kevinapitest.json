@@ -5,11 +5,11 @@
  "webview_url": "https://kevinrestapi.edgeone.app/",
  "version_code": "1",
  "version_name": "1.0.1",
- "revision": 2,
+ "revision": 3,
  "maintenance": {
-  "enabled": true,
+  "enabled": false,
   "note": "Lagi test wak",
-  "unlock_at": "2026-11-09T08:45:00.000Z"
+  "unlock_at": ""
  },
  "new_apk": {
   "version_code": "1",
@@ -32,5 +32,5 @@
   },
   "dex_count": 9
  },
- "updated_at": "2026-11-09T08:42:03.189Z"
+ "updated_at": "2026-11-09T08:43:07.625Z"
 }
